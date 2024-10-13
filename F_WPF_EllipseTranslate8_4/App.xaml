@@ -1,0 +1,13 @@
+﻿<Application x:Class="wpfEllipseTranslate8.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:wpfEllipseTranslate8"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             StartupUri="MainWindow.xaml" >
+    <Application.Resources>
+       <SolidColorBrush x:Key="rBrush" Color="Red"/>
+       <SolidColorBrush x:Key="yBrush" Color="Yellow"/>
+       <SolidColorBrush x:Key="gBrush" Color="Green"/>
+       <SolidColorBrush x:Key="bBrush" Color="Blue"/>
+    </Application.Resources>
+</Application>
