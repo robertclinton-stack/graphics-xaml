@@ -1,2 +1,2 @@
-Recent version of .Net Core. If you have .Net Core insatalled, to run, double click on executable.
+Recent version of .Net Core. Double click on publish exe.
 All source code present.
